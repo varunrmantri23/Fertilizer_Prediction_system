@@ -72,9 +72,3 @@ The application allows users to input parameters like soil type, crop type, temp
     streamlit run app.py
     ```
 4.  The application will open automatically in your default web browser.
-
-## Authors
-
--   Shreya
--   Bhagyashree
--   Gaurvi
